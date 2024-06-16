@@ -59,7 +59,7 @@ const AboutSection = () => {
             <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                 <h2 className="text-4xl font-bold text-white mb-4">A propos de moi</h2>
                 <p className="text-base lg:text-lg">
-                    Je suis un consultant en cybersécurité avec une passion pour le développement et la cybersécurité.s
+                    Je suis un consultant en cybersécurité avec une passion pour le développement et la cybersécurité.
                 </p>
                 <div className="flex flex-row mt-8 justify-start">
                     <TabButton selectTab={() => handleTabChange("cybersecurite")} active={tab === "cybersecurite"}>
